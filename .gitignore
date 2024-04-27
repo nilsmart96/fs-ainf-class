@@ -5,3 +5,12 @@
 *.h5
 *.ipynb_checkpoints
 *.jpg
+*.pt
+*.allx
+*.ally
+*.graph
+*.index
+*.tx
+*.ty
+*.x
+*.y
